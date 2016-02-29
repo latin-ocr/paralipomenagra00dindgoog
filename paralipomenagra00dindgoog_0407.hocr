@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paralipomenagra00dindgoog_0407.png"; bbox 0 0 2848 4884; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 331 2211 1103 2300">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 331 2211 1103 2300">
+     <span class='ocr_line' id='line_1_1' title="bbox 331 2211 1103 2300; baseline -0.005 -22"><span class='ocrx_word' id='word_1_1' title='bbox 331 2231 332 2236; x_wconf 13' lang='grc' dir='ltr'><strong><em>κ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 394 2211 692 2300; x_wconf 52' lang='lat' dir='ltr'>&lt;mansamuz</span> <span class='ocrx_word' id='word_1_3' title='bbox 715 2211 822 2278; x_wconf 59' lang='lat' dir='ltr'>om</span> <span class='ocrx_word' id='word_1_4' title='bbox 844 2213 959 2276; x_wconf 72' lang='grc' dir='ltr'>.’.,.;ῑῑ</span> <span class='ocrx_word' id='word_1_5' title='bbox 982 2215 1103 2278; x_wconf 76' lang='grc' dir='ltr'>ῑῑ.,,.·,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1428 4884">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1428 4884">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1428 4884; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1428 4884; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

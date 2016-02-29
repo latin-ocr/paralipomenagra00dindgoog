@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paralipomenagra00dindgoog_0344.png"; bbox 0 0 2914 4882; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 181 1197 1066 1332">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 181 1197 1066 1332">
+     <span class='ocr_line' id='line_1_1' title="bbox 181 1197 1066 1332; baseline -0.001 -17"><span class='ocrx_word' id='word_1_1' title='bbox 181 1197 718 1317; x_wconf 80' lang='lat' dir='ltr'><strong>DISSERTATIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 761 1201 1066 1332; x_wconf 80' lang='lat' dir='ltr'><strong>QUINTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 618 1547 669 1600">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 618 1547 669 1600">
+     <span class='ocr_line' id='line_1_2' title="bbox 618 1547 669 1600; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 618 1547 669 1600; x_wconf 73' lang='lat' dir='ltr'><strong>lm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 141 1755 1143 1969">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 141 1755 1143 1969">
+     <span class='ocr_line' id='line_1_3' title="bbox 141 1755 1143 1838; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 141 1755 417 1838; x_wconf 83' lang='lat' dir='ltr'>NOMINIBUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 443 1755 700 1830; x_wconf 80' lang='lat' dir='ltr'>ADIECTIVI</span> <span class='ocrx_word' id='word_1_6' title='bbox 727 1756 791 1829; x_wconf 82' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 818 1755 1143 1838; x_wconf 80' lang='lat' dir='ltr'>SUBSTANTIVI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 394 1890 881 1969; baseline 0 -4"><span class='ocrx_word' id='word_1_8' title='bbox 394 1890 605 1968; x_wconf 82' lang='lat' dir='ltr'>GENERIS</span> <span class='ocrx_word' id='word_1_9' title='bbox 631 1890 881 1969; x_wconf 81' lang='lat' dir='ltr'><strong>AMBIGUIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 269 2402 1007 2495">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 269 2402 1007 2495">
+     <span class='ocr_line' id='line_1_5' title="bbox 269 2402 1007 2495; baseline 0 -25"><span class='ocrx_word' id='word_1_10' title='bbox 269 2403 432 2491; x_wconf 78' lang='lat' dir='ltr'>(PRJMUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 452 2403 570 2471; x_wconf 85' lang='lat' dir='ltr'>EDITA</span> <span class='ocrx_word' id='word_1_12' title='bbox 591 2402 699 2474; x_wconf 87' lang='lat' dir='ltr'><strong>ANNO</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 721 2403 1007 2495; x_wconf 74' lang='lat' dir='ltr'>Mucccxxxfl.)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1462 4882">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1462 4882">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1462 4882; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1462 4882; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
